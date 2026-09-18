@@ -1,4 +1,4 @@
-# FULL ARP SPOOFER
+# arp_netspoofer.py
 
 > 🪐   ARP spoofer that poisons every host on the local `/24` network.
 
