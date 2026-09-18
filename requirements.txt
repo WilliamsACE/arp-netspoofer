@@ -1,0 +1,3 @@
+scapy>=2.6.1
+netifaces>=0.11.0
+termcolor>=2.4.0
